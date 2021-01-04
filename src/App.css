@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+}
+.nav{
+  background-color:black;
+  height: 100px;
+  margin-top:-20px;
+  }
+
+button{
+  position: relative;
+  right: -240px;
+  top: -35px;
+  padding: 8px;
+  background:linear-gradient(black,#117A65 );
+  font-weight: 900;
+  
+}
+.name{
+  color: grey;
+  position: relative;
+  right:550px ;
+  top:20px ;
+  text-shadow: 1px 2px 2px #117A65;
+}
+#s1{
+  color: #117A65;
+  text-shadow: 1px 2px 2px grey;
+
+}
+#s2{
+  color: tomato;
+  text-shadow: 1px 2px 2px grey;
+}
+input{
+  height: 30px;
+  width: 500px;
+  border-radius: 5px;
+  position: relative;
+  top: -33px;
+  right: -35px;
+  text-align: center;
+  box-shadow: 1px 3px 3px grey;
+  
+}
+
+.btn{
+  height: 40px;
+  width: 300px;
+  position: relative;
+  right: 532px;
+  top: 0px;
+  background:linear-gradient(black,#117A65 );
+  color: black;
+  font-weight: 900;
+  font-style: italic;
+  text-transform: uppercase;
+ 
+}
+
+  .btn1{
+    height:40px ;
+    width: 265px;
+    background:linear-gradient(black,#117A65 );
+    color: black;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    position: relative;
+    right: 249px;
+    top: -40px;
+  }
+  .btn2{
+    height:40px ;
+    width: 265px;
+    background:linear-gradient(black,#117A65 );
+    color: black;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    position: relative;
+    right: -16px;
+    top: -80px;
+  }
+  .btn3{
+    height:40px ;
+    width: 265px;
+    background:linear-gradient(black,#117A65 );
+    color: black;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    position: relative;
+    right: -281px;
+    top: -120px;
+  }
+  .btn4{
+    height:40px ;
+    width: 265px;
+    background:linear-gradient(black,#117A65 );
+    color:black;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    position: relative;
+    right: -545px;
+    top: -160px;
+    margin-left: 1px;
+  }
+  .video{
+    margin-top: -160px;
+    width: 1350px;
+    
+  }

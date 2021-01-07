@@ -5,7 +5,6 @@ import Membres from './component/Membres';
 import Serviceclient from './component/Seviceclient';
 import Apropos from './component/Apropos';
 import Offre from './component/Offre';
-import Herosection from './component/Herosection';
 import './App.css';
 
 function App() {
@@ -17,7 +16,6 @@ function App() {
     <Serviceclient/>
     <Apropos/>
     <Offre/>
-    <Herosection/>
     </div>
   );
 }
